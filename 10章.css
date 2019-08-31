@@ -52,11 +52,15 @@ main{
 	.box{
 		float: none;
 		width: 90%;
+		margin: 0 auto;
 	}
 	.box:nth-child(1){
 		margin-bottom: 20px;
 	}
 	.box:nth-child(2){
 		margin-bottom: 20px;
+	}
+	.image1, .image2, .image3{
+		width: 100%;
 	}
 }
